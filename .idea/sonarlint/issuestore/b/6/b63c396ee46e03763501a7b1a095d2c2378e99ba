@@ -1,0 +1,14 @@
+
+C
+java:S1948C"(Make "canvas" transient or serializable.(÷ŸìÍıÿÿÿÿ
+@
+java:S1948D"*Make "graphics" transient or serializable.(ùÕ
+h
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(åœ§B
+z
+java:S2142À"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+D	java:S108À")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ
+z
+java:S2142ã"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+D
+java:S3398"(Move this method into "AnimationThread".(ÆÑºøÿÿÿÿ

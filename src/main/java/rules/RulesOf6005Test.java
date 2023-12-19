@@ -3,9 +3,11 @@
  */
 package rules;
 
-import static org.junit.Assert.*;
 
-import org.junit.Test;
+import static org.testng.AssertJUnit.assertFalse;
+import static org.testng.AssertJUnit.assertTrue;
+
+import org.testng.annotations.Test;
 
 /**
  * JUnit tests for RulesOf6005.
