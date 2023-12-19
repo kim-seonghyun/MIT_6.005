@@ -1,0 +1,46 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+E
+src/main/java/ee.java,c/a/ca3870fa612e67e2297d1fdc98e542006f29fed2
+T
+$src/main/java/rules/RulesOf6005.java,b/3/b389240ed0fee6dfb02f1b2cf1716ac29d7c8c99
+X
+(src/main/java/rules/RulesOf6005Test.java,6/7/6704986dff926d56b3eab91220dd50d3733f1be6
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+P
+ src/main/java/turtle/Turtle.java,d/6/d6c0a0ddbdc6a35e0654bd89f1a90d9ce2b64fb8
+w
+G.idea/sonarlint/issuestore/6/7/6704986dff926d56b3eab91220dd50d3733f1be6,e/b/ebd92b5ea980a26b3f912d756274c2828e7e133c
+U
+%src/main/java/turtle/LineSegment.java,b/d/bd882a3350620161ed6c4ac3bd469377060d5be1
+R
+"src/main/java/turtle/PenColor.java,9/3/935c5364bcc81e750f8e00ecc4a373e6a946695a
+X
+(src/main/java/turtle/TurtleSoupTest.java,b/9/b9119a23f0eb6c4ad3c863fad54fc9236d4e4f22
+O
+src/main/java/turtle/Point.java,9/5/9571d973c835a40d6abba399c9905aafbc2b5006
+T
+$src/main/java/turtle/TurtleSoup.java,9/8/98ca647fadd7e1aae995100997473c829cac7f4c
+P
+ src/main/java/turtle/Action.java,5/9/5915ba2188a0ca2a182e4e98a65adeede294caac
+X
+(src/main/java/turtle/DrawableTurtle.java,8/6/860f00c249c7d65bc09f69b290def204fc870ec6
+S
+#src/main/java/turtle/TurtleGUI.java,b/6/b63c396ee46e03763501a7b1a095d2c2378e99ba
+Å
+Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2/c/2cabb939da04d3de3a200bf2b575690e1a16316d
+Å
+Q.idea/sonarlint/securityhotspotstore/b/3/b389240ed0fee6dfb02f1b2cf1716ac29d7c8c99,f/3/f3351679b6c4d26ec8ffd18d9397b46ba745e259
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/6/7/6704986dff926d56b3eab91220dd50d3733f1be6,b/e/be51b34cb4a6b5a479548132f6f96c88af47411b
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482
+Å
+Q.idea/sonarlint/securityhotspotstore/c/a/ca3870fa612e67e2297d1fdc98e542006f29fed2,7/f/7f4e97498d4c83ce0df4c04cf7c49aea6252eb28
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
